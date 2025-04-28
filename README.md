@@ -56,12 +56,5 @@ Any dataset with borrower features such as:
 - ROC Curve plot.
 - AUC value.
 
----
-
-**Author:** [Your Name Here]  
-**Project Type:** Academic / Practice / Credit Risk Analysis
-
----
-
 > "Predicting defaults helps banks lend wisely and minimize financial risks." 📊
 
